@@ -8,3 +8,8 @@ public class Main {
         System.out.println("Good Good Bye!!");
     }
 }
+
+
+class AddedLater{
+
+}
