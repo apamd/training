@@ -1,6 +1,6 @@
 package examples.training;
 
-public class Material implements Interface_Simple{
+public abstract class Material implements Interface_Assets{
     @Override
     public String getClassName() {
         return "Material";
@@ -9,5 +9,4 @@ public class Material implements Interface_Simple{
     public int getClassCode() {
         return 0;
     }
-
 }
