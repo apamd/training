@@ -8,3 +8,6 @@ public class Main {
         System.out.println("Circulatia materialelor(depozit-lucratori)");
     }
 }
+class adende{
+
+}
